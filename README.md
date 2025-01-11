@@ -15,6 +15,6 @@
 
 # REQUIREMENTS
 
-1. Configure routes so that Products are listed by default for any route
+1. Configure routes so that Products are listed by default
 2. Display the list of products in home page. Also display the discount in percentage terms for each product
 3. Display the product details when the product link is clicked
